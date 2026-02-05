@@ -1,6 +1,6 @@
 ---
 name: gowok
-description: Gowok: Golang Premwok. The Golang library that helps you to build your own project starter (or framework, possibly).
+description: "Gowok: Golang Premwok. The Golang library that helps you to build your own project starter (or framework, possibly)."
 metadata:
   author: hadihammurabi
   version: "2026.2.5"
